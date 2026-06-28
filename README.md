@@ -124,5 +124,13 @@ The application will open in your browser automatically.
 
 ---
 
+Future Enhancements
+Cloud backup support
+Backup encryption
+Email notifications
+User authentication
 
+
+Author
+Muhammad Uzair Younas
 ---
