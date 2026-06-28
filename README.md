@@ -125,10 +125,10 @@ The application will open in your browser automatically.
 ---
 
 ## Future Enhancements
-Cloud backup support
-Backup encryption
-Email notifications
-User authentication
+1. Cloud backup support
+2. Backup encryption
+3. Email notifications
+4. User authentication
 
 
 Author
