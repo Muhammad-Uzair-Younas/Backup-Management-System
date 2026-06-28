@@ -124,7 +124,7 @@ The application will open in your browser automatically.
 
 ---
 
-##Future Enhancements
+## Future Enhancements
 Cloud backup support
 Backup encryption
 Email notifications
