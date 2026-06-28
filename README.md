@@ -80,7 +80,7 @@ Backup and Recovery Management System/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Automated-Backup-and-Recovery-Management-System.git
+git clone https://github.com/Muhammad-Uzair-Younas/Backup-Management-System.git
 cd Automated-Backup-and-Recovery-Management-System
 ```
 
